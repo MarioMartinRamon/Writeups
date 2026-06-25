@@ -109,6 +109,8 @@ Description:	Ubuntu 22.04.4 LTS
 Release:	22.04
 Codename:	jammy
 
+find / -perm -4000 2>/dev/null
+
 /usr/bin/chfn
 /usr/bin/chsh
 /usr/bin/env
