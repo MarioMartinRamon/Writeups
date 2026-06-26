@@ -7,3 +7,4 @@ Conjunto de writeups de distintos CTF
 - [IMF - VulnHub](IMF/IMF_Vulnhub.md)
 - [Injection - Dockerlabs](Injection/Injection_Dockerlabs.md)
 - [Casino Royale - VulnHub](Casino_Royale/Casino_Royale_Vulnhub.md)
+- [Symfonos6.1 - VulnHub](Symfonos6.1/Symfonos6.1_Vulnhub.md)
