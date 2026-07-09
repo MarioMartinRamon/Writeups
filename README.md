@@ -12,3 +12,4 @@ Conjunto de writeups de distintos CTF
 - [Infovore1 - VulnHub](Infovore1/Infovore1_Vulnhub.md)
 - [WalkingCMS - Dockerlabs](WalkingCMS/WalkingCMS_DockerLabs.md)
 - [Tproot - Dockerlabs](Tproot/Tproot_DockerLabs.md)
+- [Ejotapete - Dockerlabs](Ejotapete/Ejotapete_DockerLabs.md)
