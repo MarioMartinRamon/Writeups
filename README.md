@@ -45,7 +45,7 @@ El objetivo de este repositorio es documentar la metodología, técnicas de enum
 | Máquina | Dificultad | OS | Writeup |
 | :--- | :---: | :---: | :---: |
 | **Startup** | *Easy* | Linux | [Leer Writeup](Startup/Startup_TryHackMe.md) |
-
+| **Ignite** | *Easy* | Linux | [Leer Writeup](Ignite/Ignite_TryHackMe.md) |
 ---
 
 ## ⚠️ Aviso Legal
