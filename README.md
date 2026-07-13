@@ -48,6 +48,7 @@ El objetivo de este repositorio es documentar la metodología, técnicas de enum
 | **Ignite** | *Easy* | Linux | [Leer Writeup](Ignite/Ignite_TryHackMe.md) |
 | **Chill Hack** | *Easy* | Linux | [Leer Writeup](Chill_Hack/Chill_Hack_TryHackMe.md) |
 | **Blue** | *Easy* | Windows | [Leer Writeup](Blue/Blue_TryHackMe.md) |
+| **Ice** | *Easy* | Windows | [Leer Writeup](Ice/Ice_TryHackMe.md) |
 ---
 
 ## ⚠️ Aviso Legal
