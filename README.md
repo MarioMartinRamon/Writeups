@@ -49,6 +49,7 @@ El objetivo de este repositorio es documentar la metodología, técnicas de enum
 | **Chill Hack** | *Easy* | Linux | [Leer Writeup](Chill_Hack/Chill_Hack_TryHackMe.md) |
 | **Blue** | *Easy* | Windows | [Leer Writeup](Blue/Blue_TryHackMe.md) |
 | **Ice** | *Easy* | Windows | [Leer Writeup](Ice/Ice_TryHackMe.md) |
+| **Blaster** | *Easy* | Windows | [Leer Writeup](Blaster/Blaster_TryHackMe.md) |
 ---
 
 ## ⚠️ Aviso Legal
