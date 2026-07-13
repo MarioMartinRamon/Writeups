@@ -16,15 +16,15 @@ El objetivo de este repositorio es documentar la metodología, técnicas de enum
 
 | Máquina | Dificultad | OS | Writeup |
 | :--- | :---: | :---: | :---: |
-| **First Hacking** | *Very Easy* | Linux | [Leer Writeup](First_Hacking/FirstHacking_Dockerlabs.md) |
-| **Obsession** | *Very Easy* | Linux | [Leer Writeup](Obsession/Obsession_DockerLabs.md) |
-| **Trust** | *Very Easy* | Linux | [Leer Writeup](Trust/Trust_DockerLabs.md) |
-| **Injection** | *Easy* | Linux | [Leer Writeup](Injection/Injection_Dockerlabs.md) |
-| **WalkingCMS** | *Easy* | Linux | [Leer Writeup](WalkingCMS/WalkingCMS_DockerLabs.md) |
-| **Tproot** | *Very Easy* | Linux | [Leer Writeup](Tproot/Tproot_DockerLabs.md) |
-| **Ejotapete** | *Easy* | Linux | [Leer Writeup](Ejotapete/Ejotapete_DockerLabs.md) |
-| **Upload** | *Easy* | Linux | [Leer Writeup](Upload/Upload_DockerLabs.md) |
-| **Pn** | *Easy* | Linux | [Leer Writeup](Pn/Pn_DockerLabs.md) |
+| **First Hacking** | *Very Easy* | Linux | [Leer Writeup](/DockerLabs/First_Hacking/FirstHacking_Dockerlabs.md) |
+| **Obsession** | *Very Easy* | Linux | [Leer Writeup](/DockerLabs/Obsession/Obsession_DockerLabs.md) |
+| **Trust** | *Very Easy* | Linux | [Leer Writeup](/DockerLabs/Trust/Trust_DockerLabs.md) |
+| **Injection** | *Easy* | Linux | [Leer Writeup](/DockerLabs/Injection/Injection_Dockerlabs.md) |
+| **WalkingCMS** | *Easy* | Linux | [Leer Writeup](/DockerLabs/WalkingCMS/WalkingCMS_DockerLabs.md) |
+| **Tproot** | *Very Easy* | Linux | [Leer Writeup](/DockerLabs/Tproot/Tproot_DockerLabs.md) |
+| **Ejotapete** | *Easy* | Linux | [Leer Writeup](/DockerLabs/Ejotapete/Ejotapete_DockerLabs.md) |
+| **Upload** | *Easy* | Linux | [Leer Writeup](/DockerLabs/Upload/Upload_DockerLabs.md) |
+| **Pn** | *Easy* | Linux | [Leer Writeup](/DockerLabs/Pn/Pn_DockerLabs.md) |
 
 ---
 
@@ -32,11 +32,11 @@ El objetivo de este repositorio es documentar la metodología, técnicas de enum
 
 | Máquina | Dificultad | OS | Writeup |
 | :--- | :---: | :---: | :---: |
-| **IMF** | *Beginner/Moderate* | Linux | [Leer Writeup](IMF/IMF_Vulnhub.md) |
-| **Casino Royale** | *Intermediate* | Linux | [Leer Writeup](Casino_Royale/Casino_Royale_Vulnhub.md) |
-| **Symfonos 6.1** | *Intermediate/Hard* | Linux | [Leer Writeup](Symfonos6.1/Symfonos6.1_Vulnhub.md) |
-| **Presidential** | *Medium/Hard* | Linux | [Leer Writeup](Presidential/Presidential_Vulnhub.md) |
-| **Infovore 1** | *Easy/Intermediate* | Linux | [Leer Writeup](Infovore1/Infovore1_Vulnhub.md) |
+| **IMF** | *Beginner/Moderate* | Linux | [Leer Writeup](/VulnHub/IMF/IMF_Vulnhub.md) |
+| **Casino Royale** | *Intermediate* | Linux | [Leer Writeup](/VulnHub/Casino_Royale/Casino_Royale_Vulnhub.md) |
+| **Symfonos 6.1** | *Intermediate/Hard* | Linux | [Leer Writeup](/VulnHub/Symfonos6.1/Symfonos6.1_Vulnhub.md) |
+| **Presidential** | *Medium/Hard* | Linux | [Leer Writeup](/VulnHub/Presidential/Presidential_Vulnhub.md) |
+| **Infovore 1** | *Easy/Intermediate* | Linux | [Leer Writeup](/VulnHub/Infovore1/Infovore1_Vulnhub.md) |
 
 ---
 
@@ -44,12 +44,12 @@ El objetivo de este repositorio es documentar la metodología, técnicas de enum
 
 | Máquina | Dificultad | OS | Writeup |
 | :--- | :---: | :---: | :---: |
-| **Startup** | *Easy* | Linux | [Leer Writeup](Startup/Startup_TryHackMe.md) |
-| **Ignite** | *Easy* | Linux | [Leer Writeup](Ignite/Ignite_TryHackMe.md) |
-| **Chill Hack** | *Easy* | Linux | [Leer Writeup](Chill_Hack/Chill_Hack_TryHackMe.md) |
-| **Blue** | *Easy* | Windows | [Leer Writeup](Blue/Blue_TryHackMe.md) |
-| **Ice** | *Easy* | Windows | [Leer Writeup](Ice/Ice_TryHackMe.md) |
-| **Blaster** | *Easy* | Windows | [Leer Writeup](Blaster/Blaster_TryHackMe.md) |
+| **Startup** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Startup/Startup_TryHackMe.md) |
+| **Ignite** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Ignite/Ignite_TryHackMe.md) |
+| **Chill Hack** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Chill_Hack/Chill_Hack_TryHackMe.md) |
+| **Blue** | *Easy* | Windows | [Leer Writeup](/TryHackMe/Blue/Blue_TryHackMe.md) |
+| **Ice** | *Easy* | Windows | [Leer Writeup](/TryHackMe/Ice/Ice_TryHackMe.md) |
+| **Blaster** | *Easy* | Windows | [Leer Writeup](/TryHackMe/Blaster/Blaster_TryHackMe.md) |
 ---
 
 ## ⚠️ Aviso Legal
