@@ -52,6 +52,7 @@ El objetivo de este repositorio es documentar la metodología, técnicas de enum
 | **Ice** | *Easy* | Windows | [Leer Writeup](/TryHackMe/Ice/Ice_TryHackMe.md) |
 | **Blaster** | *Easy* | Windows | [Leer Writeup](/TryHackMe/Blaster/Blaster_TryHackMe.md) |
 | **Wordpress CVE-2021-29447** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Wordpress_CVE/Wordpress_CVE-1021-29447.md) |
+| **PickleRick** | *Easy* | Linux | [Leer Writeup](/TryHackMe/PickleRick/PickleRick_TryHackMe.md) |
 ---
 
 ## ⚠️ Aviso Legal
