@@ -55,6 +55,7 @@ El objetivo de este repositorio es documentar la metodología, técnicas de enum
 | **PickleRick** | *Easy* | Linux | [Leer Writeup](/TryHackMe/PickleRick/PickleRick_TryHackMe.md) | 
 | **RootMe** | *Easy* | Linux | [Leer Writeup](/TryHackMe/RootMe/RootMe_TryHackMe.md) | 
 | **MrRobot** | *Medium* | Linux | [Leer Writeup](/TryHackMe/MrRobot/MrRobot_TryHackMe.md) | 
+| **Bolt** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Bolt/Bolt_TryHackMe.md) |
 ---
 
 ## ⚠️ Aviso Legal
