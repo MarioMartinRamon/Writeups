@@ -2,7 +2,7 @@
 
 ![CTF](https://img.shields.io/badge/CTF-Writeups-red?style=for-the-badge&logo=hack-the-box&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux%20%2F%20Windows-blue?style=for-the-badge&logo=linux&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved%20Machines-22-purple?style=for-the-badge&logo=target&logoColor=white)
+![Solved](https://img.shields.io/badge/Solved%20Machines-24-purple?style=for-the-badge&logo=target&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 Colección personal de resoluciones (**writeups**) paso a paso de máquinas y retos de ciberseguridad (Capture The Flag) de diversas plataformas como **DockerLabs**, **VulnHub** y **TryHackMe**.
@@ -53,7 +53,8 @@ El objetivo de este repositorio es documentar la metodología, técnicas de enum
 | **Blaster** | *Easy* | Windows | [Leer Writeup](/TryHackMe/Blaster/Blaster_TryHackMe.md) |
 | **Wordpress CVE-2021-29447** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Wordpress_CVE/Wordpress_CVE-1021-29447.md) |
 | **PickleRick** | *Easy* | Linux | [Leer Writeup](/TryHackMe/PickleRick/PickleRick_TryHackMe.md) | 
-| **RootMe** | *Easy* | Linux | [Leer Writeup](/TryHackMe/RootMe/RootMe_TryHackMe.md) |
+| **RootMe** | *Easy* | Linux | [Leer Writeup](/TryHackMe/RootMe/RootMe_TryHackMe.md) | 
+| **MrRobot** | *Medium* | Linux | [Leer Writeup](/TryHackMe/MrRobot/MrRobot_TryHackMe.md) | 
 ---
 
 ## ⚠️ Aviso Legal
