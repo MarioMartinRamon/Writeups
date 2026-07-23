@@ -2,7 +2,7 @@
 
 ![CTF](https://img.shields.io/badge/CTF-Writeups-red?style=for-the-badge&logo=hack-the-box&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux%20%2F%20Windows-blue?style=for-the-badge&logo=linux&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved%20Machines-28-purple?style=for-the-badge&logo=target&logoColor=white)
+![Solved](https://img.shields.io/badge/Solved%20Machines-29-purple?style=for-the-badge&logo=target&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 Colección personal de resoluciones (**writeups**) paso a paso de máquinas y retos de ciberseguridad (Capture The Flag) de diversas plataformas como **DockerLabs**, **VulnHub** y **TryHackMe**.
@@ -58,7 +58,8 @@ El objetivo de este repositorio es documentar la metodología, técnicas de enum
 | **Bolt** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Bolt/Bolt_TryHackMe.md) | 
 | **Blog** | *Medium* | Linux | [Leer Writeup](/TryHackMe/Blog/Blog_TryHackMe.md) | 
 | **Brooklyn Nine Nine** | *Easy* | Linux | [Leer Writeup](/TryHackMe/BrooklynNineNine/BrooklynNineNine_TryHackMe.md) | 
-| **Anonymous** | *Medium* | Linux | [Leer Writeup](/TryHackMe/Anonymous/Anonymous_TryHackMe.md) |
+| **Anonymous** | *Medium* | Linux | [Leer Writeup](/TryHackMe/Anonymous/Anonymous_TryHackMe.md) | 
+| **HA_Joker_CTF** | *Hard* | Linux | [Leer Writeup](/TryHackMe/HA_Joker_CTF/HA_Joker_CTF_TryHackMe.md) | 
 ---
 
 ## ⚠️ Aviso Legal
