@@ -60,6 +60,7 @@ El objetivo de este repositorio es documentar la metodología, técnicas de enum
 | **Brooklyn Nine Nine** | *Easy* | Linux | [Leer Writeup](/TryHackMe/BrooklynNineNine/BrooklynNineNine_TryHackMe.md) | 
 | **Anonymous** | *Medium* | Linux | [Leer Writeup](/TryHackMe/Anonymous/Anonymous_TryHackMe.md) | 
 | **HA_Joker_CTF** | *Medium* | Linux | [Leer Writeup](/TryHackMe/HA_Joker_CTF/HA_Joker_CTF_TryHackMe.md) | 
+| **Easy Peasy** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Easy_Peasy/Easy_Peasy_TryHackMe.md) |
 ---
 
 ## ⚠️ Aviso Legal
