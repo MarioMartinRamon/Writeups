@@ -62,6 +62,7 @@ El objetivo de este repositorio es documentar la metodología, técnicas de enum
 | **HA_Joker_CTF** | *Medium* | Linux | [Leer Writeup](/TryHackMe/HA_Joker_CTF/HA_Joker_CTF_TryHackMe.md) | 
 | **Easy Peasy** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Easy_Peasy/Easy_Peasy_TryHackMe.md) | 
 | **Poster** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Poster/Poster_TryHackMe.md) | 
+| **GoldenEye** | *Medium* | Linux | [Leer Writeup](/TryHackMe/GoldenEye/GoldenEye_TryHackMe.md) | 
 ---
 
 ## ⚠️ Aviso Legal
