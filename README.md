@@ -2,7 +2,7 @@
 
 ![CTF](https://img.shields.io/badge/CTF-Writeups-red?style=for-the-badge&logo=hack-the-box&logoColor=white)
 ![Linux](https://img.shields.io/badge/OS-Linux%20%2F%20Windows-blue?style=for-the-badge&logo=linux&logoColor=white)
-![Solved](https://img.shields.io/badge/Solved%20Machines-31-purple?style=for-the-badge&logo=target&logoColor=white)
+![Solved](https://img.shields.io/badge/Solved%20Machines-32-purple?style=for-the-badge&logo=target&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 Colección personal de resoluciones (**writeups**) paso a paso de máquinas y retos de ciberseguridad (Capture The Flag) de diversas plataformas como **DockerLabs**, **VulnHub** y **TryHackMe**.
@@ -63,6 +63,7 @@ El objetivo de este repositorio es documentar la metodología, técnicas de enum
 | **Easy Peasy** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Easy_Peasy/Easy_Peasy_TryHackMe.md) | 
 | **Poster** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Poster/Poster_TryHackMe.md) | 
 | **GoldenEye** | *Medium* | Linux | [Leer Writeup](/TryHackMe/GoldenEye/GoldenEye_TryHackMe.md) | 
+| **Basic Pentesting** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Basic_Pentesting/Basic_Pentesting_TryHackMe.md) | 
 ---
 
 ## ⚠️ Aviso Legal
