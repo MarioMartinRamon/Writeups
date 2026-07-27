@@ -64,7 +64,8 @@ El objetivo de este repositorio es documentar la metodología, técnicas de enum
 | **Poster** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Poster/Poster_TryHackMe.md) | 
 | **GoldenEye** | *Medium* | Linux | [Leer Writeup](/TryHackMe/GoldenEye/GoldenEye_TryHackMe.md) | 
 | **Basic Pentesting** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Basic_Pentesting/Basic_Pentesting_TryHackMe.md) | 
-| **Source** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Source/Source_TryHackMe.md) |
+| **Source** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Source/Source_TryHackMe.md) | 
+| **VulnNet_Internal** | *Easy/Medium* | Linux | [Leer Writeup](/TryHackMe/VulnNet_Internal/VulnNet_Internal_TryHackMe.md) |
 ---
 
 ## ⚠️ Aviso Legal
