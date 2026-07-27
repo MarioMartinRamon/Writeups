@@ -1,6 +1,11 @@
 # 🚩 CTF Writeups
 
-![CTF](https://img.shields.io/badge/CTF-Writeups-red?style=for-the-badge&logo=hack-the-box&logoColor=white) ![Linux](https://img.shields.io/badge/OS-Linux%20%2F%20Windows-blue?style=for-the-badge&logo=linux&logoColor=white) ![Solved](https://img.shields.io/badge/Solved%20Machines-34-purple?style=for-the-badge&logo=target&logoColor=white) ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+<p>
+  <img src="https://img.shields.io/badge/CTF-Writeups-red?style=for-the-badge&logo=hack-the-box&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Linux%20%2F%20Windows-blue?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solved%20Machines-34-purple?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
+</p>
 
 Colección personal de resoluciones (**writeups**) paso a paso de máquinas y retos de ciberseguridad (Capture The Flag) de diversas plataformas como **DockerLabs**, **VulnHub** y **TryHackMe**.
 
