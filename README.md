@@ -64,7 +64,8 @@ El objetivo de este repositorio es documentar la metodología, técnicas de enum
 | **Source** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Source/Source_TryHackMe.md) | 
 | **VulnNet_Internal** | *Easy/Medium* | Linux | [Leer Writeup](/TryHackMe/VulnNet_Internal/VulnNetInternal_TryHackMe.md) | 
 | **ColddBox** | *Easy* | Linux | [Leer Writeup](/TryHackMe/ColddBox/ColddBox_TryHackMe.md) | 
-| **Chocolate Factory** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Chocolate_Factory/ChocolateFactory_TryHackMe.md) |
+| **Chocolate Factory** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Chocolate_Factory/ChocolateFactory_TryHackMe.md) | 
+| **Vulnversity** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Vulnversity/Vulnversity_TryHackMe.md) |
 ---
 
 ## ⚠️ Aviso Legal
