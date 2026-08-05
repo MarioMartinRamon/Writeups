@@ -35,7 +35,8 @@ El objetivo de este repositorio es documentar la metodología, técnicas de enum
 | **Symfonos 6.1** | *Intermediate/Hard* | Linux | [Leer Writeup](/VulnHub/Symfonos6.1/Symfonos6.1_Vulnhub.md) |
 | **Presidential** | *Medium/Hard* | Linux | [Leer Writeup](/VulnHub/Presidential/Presidential_Vulnhub.md) |
 | **Infovore 1** | *Easy/Intermediate* | Linux | [Leer Writeup](/VulnHub/Infovore1/Infovore1_Vulnhub.md) | 
-| **Symfonos 1** | *Beginner* | Linux | [Leer Writeup](/VulnHub/Symfonos1/Symfonos1_Vulnhub.md) |
+| **Symfonos 1** | *Beginner* | Linux | [Leer Writeup](/VulnHub/Symfonos1/Symfonos1_Vulnhub.md) | 
+| **DarkHole** | *Beginner* | Linux | [Leer Writeup](/VulnHub/DarkHole/DarkHole_Vulnhub.md) |
 
 ---
 
