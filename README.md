@@ -38,7 +38,7 @@ El objetivo de este repositorio es documentar la metodología, técnicas de enum
 | **Symfonos 1** | *Beginner* | Linux | [Leer Writeup](/VulnHub/Symfonos1/Symfonos1_Vulnhub.md) | 
 | **DarkHole** | *Beginner* | Linux | [Leer Writeup](/VulnHub/DarkHole/DarkHole_Vulnhub.md) | 
 | **DarkHole 2** | *Hard* | Linux | [Leer Writeup](/VulnHub/DarkHole2/DarkHole2_Vulnhub.md) |
-| **Insanity Hosting + Pivoting + Hack Me Please** | *Hard + Easy* | Linux | [Leer Writeup](VulnHub\Pivoting\InsanityHosting_Pivoting_HackMePlease_VulnHub.md) | 
+| **Insanity Hosting + Pivoting + Hack Me Please** | *Hard + Easy* | Linux | [Leer Writeup](VulnHub/Pivoting/InsanityHosting_Pivoting_HackMePlease_VulnHub.md) | 
 
 ---
 
