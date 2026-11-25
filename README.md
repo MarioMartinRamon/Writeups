@@ -1,6 +1,6 @@
 # 🚩 CTF Writeups
 
-[![CTF](https://img.shields.io/badge/CTF-Writeups-red?style=for-the-badge&logo=hack-the-box&logoColor=white)](#) [![Linux](https://img.shields.io/badge/OS-Linux%20%2F%20Windows-blue?style=for-the-badge&logo=linux&logoColor=white)](#) [![Solved](https://img.shields.io/badge/Solved%20Machines-45-purple?style=for-the-badge&logo=target&logoColor=white)](#) [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](#)
+[![CTF](https://img.shields.io/badge/CTF-Writeups-red?style=for-the-badge&logo=hack-the-box&logoColor=white)](#) [![Linux](https://img.shields.io/badge/OS-Linux%20%2F%20Windows-blue?style=for-the-badge&logo=linux&logoColor=white)](#) [![Solved](https://img.shields.io/badge/Solved%20Machines-48-purple?style=for-the-badge&logo=target&logoColor=white)](#) [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](#)
 
 Colección personal de resoluciones (**writeups**) paso a paso de máquinas y retos de ciberseguridad (Capture The Flag) de diversas plataformas como **DockerLabs**, **VulnHub** y **TryHackMe**.
 
@@ -73,6 +73,14 @@ El objetivo de este repositorio es documentar la metodología, técnicas de enum
 | **Vulnversity** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Vulnversity/Vulnversity_TryHackMe.md) | 
 | **Bounty Hacker** | *Easy* | Linux | [Leer Writeup](/TryHackMe/Bounty_Hacker/BountyHacker_TryHackMe.md) |
 ---
+
+### HackTheBox
+
+| Máquina | Dificultad | OS | Writeup |
+| :--- | :---: | :---: | :---: |
+| **Cap** | *Easy* | Linux | [Leer Writeup](/HackTheBox/Cap/Cap_HackTheBox.md) |
+| **DoubleTake** | *Easy* | Linux | [Leer Writeup](/HackTheBox/DoubleTake/DoubleTake_HackTheBox.md) |
+| **TwoMillion** | *Easy* | Linux | [Leer Writeup](/HackTheBox/TwoMillion/TwoMillion_HackTheBox.md) |
 
 ## ⚠️ Aviso Legal
 
